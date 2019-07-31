@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019"/>
-    <id>http://yoursite.com/2019</id>
+    <link href="http://yoursite.com/2019/"/>
+    <id>http://yoursite.com/2019/</id>
     <published>2019-07-30T12:41:08.000Z</published>
     <updated>2019-07-31T06:13:35.096Z</updated>
     
