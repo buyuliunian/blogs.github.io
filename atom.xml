@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-29T12:51:30.560Z</updated>
+  <updated>2019-07-31T01:01:27.819Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="http://yoursite.com/2018/01/20/hello-world/"/>
     <id>http://yoursite.com/2018/01/20/hello-world/</id>
     <published>2018-01-20T12:41:08.000Z</published>
-    <updated>2019-07-29T12:51:30.560Z</updated>
+    <updated>2019-07-31T01:01:27.819Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>]]></content>
+    <content type="html"><![CDATA[<p>一直有想法要写点东西，但都比较散乱零碎，之前有在笔记本和有道云笔记写过一点，都不成系统。而今时间稍微富裕点，正好tom有说到他的博客，遂模仿着做了一个，作为以后学习记录留存。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;一直有想法要写点东西，但都比较散乱零碎，之前有在笔记本和有道云笔记写过一点，都不成系统。而今时间稍微富裕点，正好tom有说到他的博客，遂模仿着做了一个，作为以后学习记录留存。&lt;/p&gt;
+
       
     
     </summary>
